@@ -1,0 +1,62 @@
+{
+   "type": {
+      "key": "/type/edition"
+   },
+   "authors": [
+      {
+         "key": "/authors/OL9180803A"
+      }
+   ],
+   "languages": [
+      {
+         "key": "/languages/eng"
+      }
+   ],
+   "pagination": "358",
+   "publish_date": "2022",
+   "publishers": [
+      "Little, Brown Book Group Limited"
+   ],
+   "source_records": [
+      "bwb:9780349434278"
+   ],
+   "subjects": [
+      "American literature"
+   ],
+   "title": "Twisted Love",
+   "weight": "0.3 ",
+   "full_title": "Twisted Love TikTok Made Me Buy It! Fall into a World of Addictive Romance...",
+   "works": [
+      {
+         "key": "/works/OL24390422W"
+      }
+   ],
+   "key": "/books/OL37985553M",
+   "identifiers": {
+      "goodreads": [
+         "60832996"
+      ]
+   },
+   "covers": [
+      15243951,
+      14861274
+   ],
+   "isbn_13": [
+      "9780349434278"
+   ],
+   "lc_classifications": [
+      "PS3608"
+   ],
+   "physical_dimensions": "19.7 x 12.6 x 2.3 centimeters",
+   "physical_format": "Paperback",
+   "latest_revision": 34,
+   "revision": 34,
+   "created": {
+      "type": "/type/datetime",
+      "value": "2022-05-25T16:00:47.275320"
+   },
+   "last_modified": {
+      "type": "/type/datetime",
+      "value": "2026-08-06T19:39:40.023757"
+   }
+}

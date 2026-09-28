@@ -1,0 +1,40 @@
+services:
+  postgres:
+    image: postgres:16
+    environment:
+      POSTGRES_USER: airflow
+      POSTGRES_PASSWORD: airflow
+      POSTGRES_DB: airflow
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD", "pg_isready", "-U", "airflow"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+
+  airflow:
+    build: .
+    depends_on:
+      postgres:
+        condition: service_healthy
+    environment:
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://airflow:airflow@postgres:5432/airflow
+      PYTHONPATH: /opt/airflow
+    volumes:
+      - ./dags:/opt/airflow/dags
+      - ./data_collection:/opt/airflow/data_collection
+      - ./data_lake:/opt/airflow/data_lake
+    ports:
+      - "8080:8080"
+    command: >
+      bash -c "airflow db migrate &&
+              airflow variables set BASE_DATA_COLLECTION_PATH /opt/airflow/data_collection &&
+              airflow variables set BASE_DATA_LAKE_PATH /opt/airflow/data_lake &&
+              airflow variables set BASE_PROJECT_DIR /opt/airflow/ &&
+              airflow standalone"
+
+volumes:
+  postgres_data:
+ 
+

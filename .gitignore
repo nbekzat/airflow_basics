@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+.vscode
+logs/
+.python-version
+.scripts/
+
+# Virtual environments
+.venv/
+airflow.db*
+.env
+.DS_Store
+airflow.egg-info/
+simple_auth_manager_passwords.json.generated

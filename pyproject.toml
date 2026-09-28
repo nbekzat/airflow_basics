@@ -1,0 +1,23 @@
+[project]
+name = "airflow"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [ 
+    "fastparquet>=2026.5.0",
+    "graphviz>=0.21",
+    "pandas>=3.0.5",
+    "psycopg2-binary>=2.9.13",
+    "pyarrow>=25.0.1",
+    "python-dotenv>=1.2.3",
+    "yfinance>=1.7.0",
+]
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["data_collection"]
+# pip install -e . or uv sync

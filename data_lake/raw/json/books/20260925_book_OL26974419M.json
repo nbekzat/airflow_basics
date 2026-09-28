@@ -1,0 +1,1004 @@
+{
+   "description": "\"From the #1 New York Times-bestselling author of The 48 Laws of Power comes the definitive new book on decoding the behavior of the people around you  Robert Greene is a master guide for millions of readers, distilling ancient wisdom and philosophy into essential texts for seekers of power, understanding and mastery. Now he turns to the most important subject of all - understanding people's drives and motivations, even when they are unconscious of them themselves.  We are social animals. Our very lives depend on our relationships with people. Knowing why people do what they do is the most important tool we can possess, without which our other talents can only take us so far. Drawing from the ideas and examples of Pericles, Queen Elizabeth I, Martin Luther King Jr, and many others, Greene teaches us how to detach ourselves from our own emotions and master self-control, how to develop the empathy that leads to insight, how to look behind people's masks, and how to resist conformity to develop your singular sense of purpose. Whether at work, in relationships, or in shaping the world around you, The Laws of Human Nature offers brilliant tactics for success, self-improvement, and self-defense\"--\r\n\r\n\"Robert Greene is a master guide for millions of readers, distilling ancient wisdom and philosophy into essential texts for seekers of power, understanding and mastery. Now he turns to the most important subject of all - understanding people's drives and motivations, even when they are unconscious of them themselves. We are social animals. Our very lives depend on our relationships with people. Knowing why people do what they do is the most important tool we can possess, without which our other talents can only take us so far. Drawing from the ideas and examples of Pericles, Queen Elizabeth I, Martin Luther King Jr, and many others, Greene teaches us how to detach ourselves from our own emotions and master self-control, how to develop the empathy that leads to insight, how to look behind people's masks, and how to resist conformity to develop your singular sense of purpose. Whether at work, in relationships, or in shaping the world around you, The Laws of Human Nature offers brilliant tactics for success, self-improvement, and self-defense\"--",
+   "local_id": [
+      "urn:sfpl:31223129975406",
+      "urn:sfpl:31223129975414",
+      "urn:sfpl:31223129975422",
+      "urn:sfpl:31223129975430",
+      "urn:sfpl:31223129975448",
+      "urn:sfpl:31223129975455",
+      "urn:sfpl:31223129975463",
+      "urn:sfpl:31223129975471",
+      "urn:sfpl:31223129975489",
+      "urn:sfpl:31223129975380",
+      "urn:sfpl:31223119254671",
+      "urn:sfpl:31223129975497",
+      "urn:sfpl:31223129975505",
+      "urn:sfpl:31223129975513",
+      "urn:sfpl:31223129975521",
+      "urn:sfpl:31223129975539",
+      "urn:sfpl:31223129975547",
+      "urn:sfpl:31223129975554",
+      "urn:sfpl:31223129975562",
+      "urn:sfpl:31223129975570",
+      "urn:sfpl:31223129975588",
+      "urn:sfpl:31223129975398",
+      "urn:sfpl:31223129975315",
+      "urn:sfpl:31223129975323",
+      "urn:sfpl:31223129975331",
+      "urn:sfpl:31223129975349",
+      "urn:sfpl:31223129975356",
+      "urn:sfpl:31223129975364",
+      "urn:sfpl:31223129975372"
+   ],
+   "full_title": "The laws of human nature",
+   "key": "/books/OL26974419M",
+   "authors": [
+      {
+         "key": "/authors/OL236414A"
+      }
+   ],
+   "pagination": "609 pages",
+   "source_records": [
+      "marc:marc_openlibraries_sanfranciscopubliclibrary/sfpl_chq_2018_12_24_run06.mrc:192304954:9373",
+      "bwb:9780525428145",
+      "ia:lawsofhumannatur0000gree"
+   ],
+   "title": "The Laws of human nature",
+   "notes": "Includes bibliographical references (pages 589-592) and index.",
+   "number_of_pages": 609,
+   "languages": [
+      {
+         "key": "/languages/eng"
+      }
+   ],
+   "subjects": [
+      "Self-actualization (Psychology)",
+      "Motivation (Psychology)",
+      "Self-control",
+      "Success"
+   ],
+   "publish_date": "2018",
+   "publish_country": "nyu",
+   "by_statement": "Robert Greene",
+   "works": [
+      {
+         "key": "/works/OL19761410W"
+      }
+   ],
+   "type": {
+      "key": "/type/edition"
+   },
+   "identifiers": {},
+   "covers": [
+      15254578,
+      12786526,
+      15224479
+   ],
+   "publishers": [
+      "Viking"
+   ],
+   "table_of_contents": [
+      {
+         "level": 0,
+         "label": "",
+         "title": "Introduction",
+         "pagenum": "1",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 1",
+         "title": "Master Your Emotional Self: The Law of Irrationality",
+         "pagenum": "13",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Inner Athena",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Step One: Recognize the Biases",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Step Two: Beware the Inflaming Factors",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Step Three: Strategies Toward Bringing Out the Rational Self",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 2",
+         "title": "Transform Self-Love into Empathy: The Law of Narcissism",
+         "pagenum": "42",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Narcissistic Spectrum",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Examples of Narcissistic Types",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 3",
+         "title": "See Through People's Masks: The Law of Role-Playing",
+         "pagenum": "72",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Second Language",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Observational Skills",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Decoding Keys",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Art of Impression Management",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 4",
+         "title": "Determine the Strength of People's Character: The Law of Compulsive Behavior",
+         "pagenum": "102",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Pattern",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Character Signs",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Toxic Types",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Superior Character",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 5",
+         "title": "Become an Elusive Object of Desire: The Law of Covetousness",
+         "pagenum": "131",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Object of Desire",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Strategies for Stimulating Desire",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Supreme Desire",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 6",
+         "title": "Elevate Your Perspective: The Law of Shortsightedness",
+         "pagenum": "150",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Moments of Madness",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Four Signs of Shortsightedness and Strategies to Overcome Them",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Farsighted Human",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 7",
+         "title": "Soften People's Resistance by Confirming Their Self-Opinion: The Law of Defensiveness",
+         "pagenum": "172",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Influence Game",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Five Strategies for Becoming a Master Persuader",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Flexible Mind \u2014 Self-Strategies",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 8",
+         "title": "Change Your Circumstances by Changing Your Attitude: The Law of Self-Sabotage",
+         "pagenum": "202",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Ultimate Freedom",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Constricted (Negative) Attitude",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Expansive (Positive) Attitude",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 9",
+         "title": "Confront Your Dark Side: The Law of Repression",
+         "pagenum": "231",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Dark Side",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Deciphering the Shadow: Contradictory Behavior",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Integrated Human",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 10",
+         "title": "Beware the Fragile Ego: The Law of Envy",
+         "pagenum": "261",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Fatal Friends",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Signs of Envy",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Envier Types",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Envy Triggers",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Beyond Envy",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 11",
+         "title": "Know Your Limits: The Law of Grandiosity",
+         "pagenum": "291",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Success Delusion",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Grandiose Leader",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Practical Grandiosity",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 12",
+         "title": "Reconnect to the Masculine or Feminine Within You: The Law of Gender Rigidity",
+         "pagenum": "320",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Authentic Gender",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Gender Projection-Types",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Original Man/Woman",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 13",
+         "title": "Advance with a Sense of Purpose: The Law of Aimlessness",
+         "pagenum": "356",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Voice",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Strategies for Developing a High Sense of Purpose",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Lure of False Purposes",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 14",
+         "title": "Resist the Downward Pull of the Group: The Law of Conformity",
+         "pagenum": "391",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "An Experiment in Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Court and Its Courtiers",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Reality Group",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 15",
+         "title": "Make Them Want to Follow You: The Law of Fickleness",
+         "pagenum": "438",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Entitlement Curse",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Strategies for Establishing Authority",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Inner Authority",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 16",
+         "title": "See the Hostility Behind the Friendly Fa\u00e7ade: The Law of Aggression",
+         "pagenum": "473",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Sophisticated Aggressor",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Source of Human Aggression",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Passive Aggression \u2014 Its Strategies and How to Counter Them",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Controlled Aggression",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 17",
+         "title": "Seize the Historical Moment: The Law of Generational Myopia",
+         "pagenum": "518",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Rising Tide",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Generational Phenomenon",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Generational Patterns",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Strategies for Exploiting the Spirit of the Times",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Human Beyond Time and Death",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "Chapter 18",
+         "title": "Meditate on Our Common Mortality: The Law of Death Denial",
+         "pagenum": "562",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "The Bullet in the Side",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "Keys to Human Nature",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 1,
+         "label": "",
+         "title": "A Philosophy of Life Through Death",
+         "pagenum": "",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "",
+         "title": "Acknowledgments",
+         "pagenum": "587",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "",
+         "title": "Selected Bibliography",
+         "pagenum": "589",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      },
+      {
+         "level": 0,
+         "label": "",
+         "title": "Index",
+         "pagenum": "593",
+         "type": {
+            "key": "/type/toc_item"
+         }
+      }
+   ],
+   "ocaid": "lawsofhumannatur0000gree",
+   "isbn_10": [
+      "0525428143"
+   ],
+   "isbn_13": [
+      "9780525428145"
+   ],
+   "lccn": [
+      "2018031828"
+   ],
+   "oclc_numbers": [
+      "1056493051"
+   ],
+   "dewey_decimal_class": [
+      "158"
+   ],
+   "lc_classifications": [
+      "BF637.S4 G7384 2018",
+      "BF637.S4G7384 2018"
+   ],
+   "latest_revision": 26,
+   "revision": 26,
+   "created": {
+      "type": "/type/datetime",
+      "value": "2019-05-31T08:34:29.515462"
+   },
+   "last_modified": {
+      "type": "/type/datetime",
+      "value": "2026-09-14T14:19:46.003646"
+   }
+}
